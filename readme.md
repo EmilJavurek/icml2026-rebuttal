@@ -1,3 +1,9 @@
+![Sensitivity to omega](sensitivity-plot1.png)
+
+---
+---
+---
+
 ![Misspecification - Single Run Visualized](misspecification-plot1-longer.png)
 
 | method            | n_reps | coverage | mse      |
